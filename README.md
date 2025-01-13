@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/thieuquan501"><img src="https://api.daily.dev/devcards/v2/BykSnl6urzxQ7GxljGxKN.png?r=t27&type=default" width="356" alt="Quân Gian's Dev Card"/></a>
+
 <!--
 **thq4n/thq4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
