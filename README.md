@@ -18,9 +18,9 @@ Welcome to my GitHub profile! Here's a snapshot of my journey in technology:
     </td>
     <td>
       <ul>
-        <li>🏢 <b>Professional Role</b>: Flutter Application Developer with 3+ years of experience in mobile app development.</li>
-        <li>🌟 <b>Career Goals</b>: Aspiring to become a Full Stack Mobile Developer within six months and achieve Senior Mobile Developer status in 1-2 years.</li>
-        <li>🛠 <b>Strengths</b>: Hands-on experience in developing high-quality apps, leading teams, and solving complex technical issues.</li>
+        <li>🏢 <b>Professional Role</b>: I am a Flutter Application Developer with 3+ years of experience developing cross-platform mobile apps for Android and iOS. I specialize in delivering user-friendly and scalable applications while ensuring smooth project workflows and high-quality code.</li>
+        <li>🌟 <b>Career Goals</b>: My goal is to become a Full Stack Mobile Developer within six months and achieve Senior Mobile Developer status in 1-2 years by mastering advanced technologies and contributing to impactful projects.</li>
+        <li>🛠 <b>Strengths</b>: I excel in creating reliable, optimized mobile solutions, solving technical challenges, and collaborating effectively with teams to ensure seamless project delivery.</li>
       </ul>
     </td>
   </tr>
