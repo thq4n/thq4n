@@ -7,11 +7,24 @@ Welcome to my GitHub profile! Here's a snapshot of my journey in technology:
 
 ---
 
-## 📖 About Me  
+## 📖 About Me 
 
-- 🏢 **Professional Role**: Flutter Application Developer with 3+ years of experience in mobile app development.  
-- 🌟 **Career Goals**: Aspiring to become a Full Stack Mobile Developer within six months and achieve Senior Mobile Developer status in 1-2 years.  
-- 🛠 **Strengths**: Hands-on experience in developing high-quality apps, leading teams, and solving complex technical issues.  
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="https://app.daily.dev/thieuquan501">
+        <img src="https://api.daily.dev/devcards/v2/BykSnl6urzxQ7GxljGxKN.png?r=t27&type=default" width="356" alt="Quân Gian's Dev Card"/>
+      </a>
+    </td>
+    <td>
+      <ul>
+        <li>🏢 <b>Professional Role</b>: Flutter Application Developer with 3+ years of experience in mobile app development.</li>
+        <li>🌟 <b>Career Goals</b>: Aspiring to become a Full Stack Mobile Developer within six months and achieve Senior Mobile Developer status in 1-2 years.</li>
+        <li>🛠 <b>Strengths</b>: Hands-on experience in developing high-quality apps, leading teams, and solving complex technical issues.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -80,8 +93,6 @@ Welcome to my GitHub profile! Here's a snapshot of my journey in technology:
 
 ---
 
-
-<a href="https://app.daily.dev/thieuquan501"><img src="https://api.daily.dev/devcards/v2/BykSnl6urzxQ7GxljGxKN.png?r=t27&type=default" width="356" alt="Quân Gian's Dev Card"/></a>
 
 <!--
 **thq4n/thq4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
