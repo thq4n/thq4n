@@ -286,11 +286,24 @@ Currently focused on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thq4n&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=thq4n&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thq4n&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=thq4n&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 
-<img src="https://streak-stats.demolab.com?user=thq4n&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=thq4n&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
