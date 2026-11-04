@@ -286,21 +286,27 @@ Currently focused on:
 
 <div align="center">
 
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=thq4n&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <a href="https://github.com/thq4n">
+    <img
+      height="190"
+      align="center"
+      src="https://github-stats-extended.vercel.app/api?username=thq4n&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/thq4n?tab=repositories">
+    <img
+      height="190"
+      align="center"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=thq4n&layout=compact&langs_count=6&card_width=320&theme=github_dark&hide_border=true"
+      alt="Most Used Languages"
+    />
+  </a>
+
+  <br/><br/>
 
   <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=thq4n&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-
-  <br/>
-
-  <img
+    width="550"
     src="https://streak-stats.demolab.com?user=thq4n&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
   />
