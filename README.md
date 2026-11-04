@@ -38,7 +38,7 @@
 </td>
 <td valign="top">
 
-I'm a **Senior Flutter Engineer and Mobile Team Lead** with **4+ years of experience** designing, developing, and delivering cross-platform mobile applications for Android and iOS.
+I'm a **Senior Flutter Engineer and Mobile Team Lead** with **5+ years of experience** designing, developing, and delivering cross-platform mobile applications for Android and iOS.
 
 My expertise extends beyond feature development into **mobile architecture, engineering leadership, technical planning, and enterprise application delivery**.
 
